@@ -1,0 +1,36 @@
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\bin\Debug\Moore And Mealy Makiesi.exe.config
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\bin\Debug\Moore And Mealy Makiesi.exe
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\bin\Debug\Moore And Mealy Makiesi.pdb
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Properties.Resources.resources
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.csproj.GenerateResource.Cache
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.exe
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.pdb
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Hello.resources
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Moore.resources
+C:\Users\Muhammed\source\repos\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Mealy.resources
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\bin\Debug\Moore And Mealy Makiesi.exe.config
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\bin\Debug\Moore And Mealy Makiesi.exe
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\bin\Debug\Moore And Mealy Makiesi.pdb
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Mealy.resources
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Moore.resources
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Hello.resources
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.csproj.GenerateResource.Cache
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.exe
+C:\Users\Muhammed\Desktop\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.pdb
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\bin\Debug\Moore And Mealy Makiesi.exe.config
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\bin\Debug\Moore And Mealy Makiesi.exe
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\bin\Debug\Moore And Mealy Makiesi.pdb
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.csprojResolveAssemblyReference.cache
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Mealy.resources
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Moore.resources
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Hello.resources
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore_And_Mealy_Makiesi.Properties.Resources.resources
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.csproj.GenerateResource.Cache
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.csproj.CoreCompileInputs.cache
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.exe
+D:\Eski Bilgisayar\OKUL\Otomata\Otomata Ödev 21-22\Moore And Mealy Makiesi\Moore And Mealy Makiesi\obj\Debug\Moore And Mealy Makiesi.pdb
